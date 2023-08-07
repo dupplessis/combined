@@ -28,4 +28,3 @@ jobs:
       - name: Deploy to GKE
         run: |
           kubectl apply -f vuejs-deployment.yaml
-this code works 
